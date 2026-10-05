@@ -1,0 +1,6 @@
+.openai/
+.sites-runtime/
+node_modules/
+*.tar.gz
+*.conf
+!dist/*.js
