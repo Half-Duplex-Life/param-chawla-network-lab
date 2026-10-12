@@ -1,0 +1,417 @@
+{
+  "modules": 38,
+  "toolAndReturnLinks": 105,
+  "answerFeedback": 114,
+  "exports": 38,
+  "results": [
+    {
+      "course": "ccna",
+      "module": "OSI & TCP/IP",
+      "sections": 4,
+      "supportTools": [
+        "decoder",
+        "mtu",
+        "tracer"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Ethernet & ARP",
+      "sections": 3,
+      "supportTools": [
+        "arp",
+        "mac"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Switching & STP",
+      "sections": 4,
+      "supportTools": [
+        "stp",
+        "vlan"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "IP Routing",
+      "sections": 3,
+      "supportTools": [
+        "routes",
+        "ipv4",
+        "vlsm",
+        "topology"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "TCP & UDP",
+      "sections": 3,
+      "supportTools": [
+        "tcp",
+        "tcp-state",
+        "capture"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "DHCP & DNS",
+      "sections": 3,
+      "supportTools": [
+        "dhcp",
+        "relay",
+        "dns"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "ACLs",
+      "sections": 3,
+      "supportTools": [
+        "acl",
+        "acl",
+        "prefix"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "OSPF Fundamentals",
+      "sections": 3,
+      "supportTools": [
+        "ospf-neighbor",
+        "election",
+        "ospf-path"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "NAT & PAT",
+      "sections": 3,
+      "supportTools": [
+        "nat",
+        "capture"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Wireless Basics",
+      "sections": 3,
+      "supportTools": [
+        "mcs",
+        "fspl",
+        "wifi-rf",
+        "cwnp"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "HSRP / VRRP / GLBP",
+      "sections": 3,
+      "supportTools": [
+        "arp",
+        "capture"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Network Security",
+      "sections": 3,
+      "supportTools": [
+        "acl",
+        "tls",
+        "wifi-practice"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "EtherChannel",
+      "sections": 3,
+      "supportTools": [
+        "stp",
+        "vlan"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "EIGRP Fundamentals",
+      "sections": 3,
+      "supportTools": [
+        "eigrp",
+        "summary"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "IPv6 & NDP",
+      "sections": 3,
+      "supportTools": [
+        "ipv6",
+        "ndp"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "WAN & Distance Vector",
+      "sections": 3,
+      "supportTools": [
+        "protocol",
+        "convergence"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "VLANs & Trunks",
+      "sections": 2,
+      "supportTools": [
+        "vlan",
+        "stp"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "IPv4 Addressing",
+      "sections": 2,
+      "supportTools": [
+        "classes",
+        "ipv4"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Subnetting & VLSM",
+      "sections": 2,
+      "supportTools": [
+        "vlsm",
+        "overlap",
+        "tree"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccna",
+      "module": "Automation Basics",
+      "sections": 2,
+      "supportTools": [
+        "automation",
+        "acl"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "Advanced OSPF",
+      "sections": 4,
+      "supportTools": [
+        "area",
+        "lsa",
+        "ospf-path",
+        "virtual",
+        "ospf-filter"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "BGP Policy",
+      "sections": 3,
+      "supportTools": [
+        "bgp-animation",
+        "bgp-best",
+        "community",
+        "prefix"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "BGP Troubleshooting",
+      "sections": 3,
+      "supportTools": [
+        "broken",
+        "next-hop",
+        "prefix",
+        "regex"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "MPLS",
+      "sections": 3,
+      "supportTools": [
+        "mpls",
+        "tunnel"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "QoS",
+      "sections": 3,
+      "supportTools": [
+        "qos",
+        "units",
+        "ping"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "IPsec VPN",
+      "sections": 3,
+      "supportTools": [
+        "tunnel",
+        "mtu"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "SD-WAN & SDN",
+      "sections": 3,
+      "supportTools": [
+        "design",
+        "automation",
+        "tunnel"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccnp",
+      "module": "Structured Troubleshooting",
+      "sections": 3,
+      "supportTools": [
+        "broken",
+        "show",
+        "routes",
+        "capture"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "EIGRP & DUAL",
+      "sections": 3,
+      "supportTools": [
+        "eigrp",
+        "convergence"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "BGP Path Selection",
+      "sections": 3,
+      "supportTools": [
+        "bgp-select",
+        "bgp-best",
+        "next-hop"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "Multicast",
+      "sections": 3,
+      "supportTools": [
+        "routes",
+        "topology"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "Route Redistribution",
+      "sections": 3,
+      "supportTools": [
+        "prefix",
+        "routes",
+        "ospf-filter"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "Segment Routing",
+      "sections": 3,
+      "supportTools": [
+        "mpls",
+        "topology",
+        "tunnel"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "EVPN & VXLAN",
+      "sections": 3,
+      "supportTools": [
+        "tunnel",
+        "next-hop",
+        "community"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "Network Automation",
+      "sections": 3,
+      "supportTools": [
+        "automation",
+        "design"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "IS-IS",
+      "sections": 3,
+      "supportTools": [
+        "protocol",
+        "topology"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "Advanced BGP",
+      "sections": 3,
+      "supportTools": [
+        "community",
+        "security",
+        "hijack",
+        "bgp-best"
+      ],
+      "passed": true
+    },
+    {
+      "course": "ccie",
+      "module": "MPLS Traffic Engineering",
+      "sections": 3,
+      "supportTools": [
+        "topology",
+        "mpls",
+        "convergence"
+      ],
+      "passed": true
+    }
+  ]
+}
